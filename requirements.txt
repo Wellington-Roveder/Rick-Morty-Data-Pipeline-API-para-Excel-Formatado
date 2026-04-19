@@ -1,0 +1,8 @@
+# Manipulação de dados e integração com Excel
+pandas
+
+# Motor para formatação avançada de arquivos .xlsx
+openpyxl
+
+# Cliente HTTP para consumo da API
+requests
